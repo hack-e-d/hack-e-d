@@ -1,1 +1,1 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=hack-e-d&style=plastic)
+![Visitor Count](https://komarev.com/ghpvc/?username=hack-e-d&color=red&style=plastic)
