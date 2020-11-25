@@ -1,1 +1,1 @@
-![Visitor Count](https://profile-counter.glitch.me/hack-e-d/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
