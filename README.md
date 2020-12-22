@@ -11,4 +11,14 @@
 </p>
 
 ### Tools and Technologies :
-<img src="https://www.python.org/static/img/psf-logo.png"/>
+<a href="https://www.python.org/" <img src="https://www.python.org/static/img/psf-logo.png"/></a>
+
+<a href="https://www.tensorflow.org/" <img src="https://www.gstatic.com/devrel-devsite/prod/veaa02889f0c07424beaa31d9bac1e874b6464e7ed7987fde4c94a59ace9487fa/tensorflow/images/lockup.svg"/></a>
+
+<a href="" <img src=""/></a>
+
+<a href="" <img src=""/></a>
+
+<a href="" <img src=""/></a>
+
+<a href="" <img src=""/></a>
