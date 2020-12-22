@@ -7,10 +7,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hack-e-d&show_icons=true&hide=stars&include_all_commits=true&theme=chartreuse-dark" alt="Hack-e-d's GitHub Stats" />
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&layout=compact&theme=chartreuse-dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&theme=chartreuse-dark" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&layout=compact)](https://github.com/hack-e-d/github-readme-stats)
 
 ### Tools and Technologies :
 <a href="https://www.python.org/"> <img src="https://www.python.org/static/img/psf-logo.png"/></a>
