@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My World 👨🏼‍💻<h1>
+<h1 align="center" style="color:green;">Welcome to My World 👨🏼‍💻<h1>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hack-e-d&color=red&style=plastic)
 
