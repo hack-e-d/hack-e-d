@@ -8,9 +8,6 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&theme=chartreuse-dark" />
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hack-e-d&theme=chartreuse-dark"/>
 </p>
 
 ### Tools and Technologies :
