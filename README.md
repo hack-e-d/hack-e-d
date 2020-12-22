@@ -10,6 +10,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&layout=compact&theme=chartreuse-dark" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hack-e-d&layout=compact)](https://github.com/hack-e-d/github-readme-stats)
+
 ### Tools and Technologies :
 <a href="https://www.python.org/"> <img src="https://www.python.org/static/img/psf-logo.png"/></a>
 
